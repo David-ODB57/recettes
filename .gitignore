@@ -8,3 +8,7 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> lié à l'IDE ###
+.vscode
+###< lié à l'IDE ###
