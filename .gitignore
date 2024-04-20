@@ -15,3 +15,10 @@
 /.php-cs-fixer.php
 /.php-cs-fixer.cache
 ###< friendsofphp/php-cs-fixer ###
+###> lié à Docker ###
+/Dockerfile
+/docker-compose.yml
+###> lié à Docker ###
+###> lié à NGINX ###
+/default.conf
+###> lié à NGINX ###
